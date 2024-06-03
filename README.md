@@ -38,11 +38,17 @@ You should have skills and experience working with an area of IT, such as:
 2. [Describe Azure architecture and services (35–40%)](2-Describe%20Azure%20architecture%20and%20services%20(35–40%25).md)
 3. [Describe Azure management and governance (30–35%)](3-Describe%20Azure%20management%20and%20governance%20(30–35%25).md)
 
-### Hands-on Study Material at Microsoft Learn
+----
 
-- [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-- [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
-- [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/)
+### Azure Training and Badges
+
+These hands-on study materials at Microsoft Learn will help you understand various Azure concepts and services. By completing these learning paths, you can earn badges that demonstrate your knowledge and skills in Azure.
+
+- [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?wt.mc_id=studentamb_198011): Learn the basics of cloud computing, key cloud concepts, and core Azure services.
+- [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/?wt.mc_id=studentamb_198011): Understand Azure architecture, key services, and solutions for various workloads.
+- [Describe Azure management and governance](https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/?wt.mc_id=studentamb_198011): Gain knowledge on managing and governing your Azure environment effectively.
+
+By completing these modules, you can earn badges to showcase your Azure skills and knowledge.
 
 ---
 
