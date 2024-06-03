@@ -1,4 +1,5 @@
 # AZ-900: Microsoft Azure Fundamentals
+<a href="#"><img src="https://img.shields.io/badge/AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900" /></a> 
 
 ## Skills Measured (as of January 23, 2024)
 ---
@@ -52,5 +53,11 @@ By completing these modules, you can earn badges to showcase your Azure skills a
 
 ---
 
-**Tags:** `AZ-900`, `SLDF`, `Updated: 2024-06-04`  
-**Maintainer:** Nikila Fernando
+<a href="#"><img src="https://img.shields.io/badge/AZ--900-blue?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AZ-900" /></a> 
+<a href="#"><img src="https://img.shields.io/badge/SLDF-blue?style=flat-square&logo=microsoft-azure&logoColor=white" alt="SLDF" /></a> 
+<a href="#"><img src="https://img.shields.io/badge/Updated-2024--06--04-blue?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Updated: 2024-06-04" /></a>  
+
+**Maintainer:**  
+<a href="#"><img src="https://img.shields.io/badge/Maintainer-Nikila%20Fernando-blue?style=flat-square" alt="Maintainer: Nikila Fernando" /></a>
+
+
