@@ -1,5 +1,5 @@
 # AZ-900: Microsoft Azure Fundamentals
-<a href="#"><img src="https://img.shields.io/badge/AZ--900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900" /></a> 
+
 
 ## Skills Measured (as of January 23, 2024)
 ---
